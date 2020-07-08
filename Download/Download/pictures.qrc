@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>098ad8b4dc34862a4290ddd5e93eb249.png</file>
+        <file>49848f3d887e8e30ae64b6ff3895decc.jpg</file>
+        <file>63198a7c57c3ea975e12d91882686786.jpg</file>
+        <file>83f245157afef398ed1830a40b671ad3.jpg</file>
+        <file>pkq.png</file>
+        <file>300px-131Lapras.png</file>
+        <file>087Dewgong.png</file>
+        <file>300px-079Slowpoke.png</file>
+        <file>300px-078Rapidash.png</file>
+        <file>300px-040Wigglytuff.png</file>
+        <file>279759ee3d6d55fbac1056c16f224f4a21a4dd06.jpg</file>
+        <file>95ccfcbc54787f264deb415e1012d50f.jpg</file>
+        <file>f582451205067bf3aeb30e5eeab7e8e9.jpeg</file>
+        <file>00f78a17d4c0b5b6fcc9028347359323.jpg</file>
+        <file>48-151111161301.jpg</file>
+        <file>yumao.jpg</file>
+    </qresource>
+</RCC>
